@@ -1,0 +1,39 @@
+body {
+  font-family: Roboto, sans-serif;
+  line-height: 1;
+  letter-spacing: 0.03em;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+p,
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding-left: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  color: brown;
+}
